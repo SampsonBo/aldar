@@ -1,0 +1,7 @@
+{
+    "SkinName":"Aldar",
+    "Wrappers":"wrapper.twig",
+    "Stylesheet":"aldar.css",
+    "Macros":"buttons.html",
+    "templates":"templates"
+}
